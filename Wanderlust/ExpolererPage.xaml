@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Wanderlust.ExpolererPage">
+
+
+
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Tap the venues to see the reviews"  TextColor="Brown" FontAttributes="Bold" FontSize="20" HorizontalOptions="Center" Margin="10"/>
+            
+            <ListView x:Name="venueListView"
+                      Margin="20,10"
+                      HorizontalOptions="FillAndExpand"
+                      ItemTapped="ListTapped"
+                      HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid Margin="5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+
+                                <Label Text="{Binding name}"
+                                       FontAttributes="Bold"
+                                       TextColor="Brown"
+                                      />
+                                <Label Grid.Row="1"
+                                       Text="{Binding location.address}"
+                                       TextColor="Black"/>
+                                <Label Grid.Column="1"
+                                       Text="{Binding location.distance, StringFormat='{0} meters'}"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>  
+    </ContentPage.Content>
+
+</ContentPage>

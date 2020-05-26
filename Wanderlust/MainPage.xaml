@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Wanderlust.MainPage"
+             >
+
+
+
+    <AbsoluteLayout VerticalOptions="FillAndExpand"
+                    HorizontalOptions="FillAndExpand">
+
+        <Image AbsoluteLayout.LayoutFlags="All" AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+            Source="wanderlust.jpg" Aspect="AspectFill"/>
+
+            <StackLayout Orientation="Vertical"
+                         AbsoluteLayout.LayoutFlags="All"
+                         AbsoluteLayout.LayoutBounds="0, 0, 1, 1"
+                         VerticalOptions="End"
+                         Margin="25,0,25,0">
+                <Entry x:Name="emailEntry"
+                       TextColor="{d:StaticResource blueColor}"
+                       Placeholder="Email Adress"
+                       Keyboard="Email"
+                       BackgroundColor="White"/>
+                <Entry x:Name="passwordEntry"
+                       TextColor="{d:StaticResource blueColor}"   
+                       Placeholder="Password"
+                       IsPassword="True"
+                       BackgroundColor="White"/>
+                <Button x:Name="loginButton"
+                        Text="Log in"
+                        Clicked="loginButtonClicked"
+                        BackgroundColor="Brown"
+                        TextColor="White"
+                        />
+                <Button x:Name="registerButton"
+                        Text="Register Now"
+                        Clicked="registerUserButtonClicked"
+                        BackgroundColor="Transparent"
+                        TextColor="Brown"
+                        HorizontalOptions="End"/>
+            </StackLayout>
+
+    </AbsoluteLayout>
+
+
+</ContentPage>

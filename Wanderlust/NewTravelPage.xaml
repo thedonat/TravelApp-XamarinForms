@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Wanderlust.NewTravelPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Save"
+                     Icon="save.png"
+                     Command="{Binding bluecolor}"
+                     Clicked="ToolbarItem_Clicked"/>
+    </ContentPage.ToolbarItems>
+
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry x:Name="experienceEntry"
+                   Placeholder="Write your experince"
+                   HeightRequest="150"
+                   VerticalTextAlignment="Start"/>
+            <Picker x:Name="IndustryTypePicker1" SelectedIndex="{Binding Industry}" HorizontalOptions="FillAndExpand" Title="Rate Your Experience">
+            <Picker.Items>
+                     <x:String>⭐</x:String> 
+                     <x:String>⭐⭐</x:String>
+                     <x:String>⭐⭐⭐</x:String> 
+                     <x:String>⭐⭐⭐⭐</x:String>
+                     <x:String>⭐⭐⭐⭐⭐</x:String> 
+
+            </Picker.Items>
+        </Picker> 
+            <ListView x:Name="venueListView"
+                      Margin="20,0"
+                      HorizontalOptions="FillAndExpand">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="*"/>
+                                </Grid.RowDefinitions>
+
+                                <Label Text="{Binding name}"
+                                       FontAttributes="Bold"
+                                       TextColor="Brown"/>
+                                <Label Grid.Row="1"
+                                       Text="{Binding location.address}"
+                                       TextColor="Black"/>
+                                <Label Grid.Column="1"
+                                       Text="{Binding location.distance, StringFormat='{0} meters'}"/>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>  
+    </ContentPage.Content>
+
+</ContentPage>

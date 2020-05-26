@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Wanderlust.HistoryPage">
+
+
+    <StackLayout>
+                <SearchBar TextChanged="SearchBar_TextChanged"></SearchBar>  
+
+    
+    <ListView x:Name="postListView" ItemSelected="Handle_ItemSelected" HasUnevenRows="True" Margin="20,5,20,0">
+
+        <ListView.ItemTemplate>
+
+            <DataTemplate>
+
+
+                <ViewCell>
+                    <ViewCell.View>
+                        <Grid Margin="5">
+                            <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                            <Label Text="{Binding Date}" HorizontalOptions="End" TextColor="DarkGray" Grid.Column="1"/>
+                            <Label Text="{Binding VenueName}" TextColor="Brown" FontAttributes="Bold" Grid.Row="0" />
+                            <Label Text="{Binding Experience}" Grid.Row="1" />
+                            <Label Text="{Binding Rate}" HorizontalOptions="End" TextColor="DarkGray" Grid.Row="2" Grid.Column="1" Margin="0,0,0,8"/>
+
+                        </Grid> 
+                    </ViewCell.View>
+                </ViewCell>
+
+            </DataTemplate>
+
+        </ListView.ItemTemplate>
+            
+    </ListView>
+        </StackLayout>
+
+</ContentPage>

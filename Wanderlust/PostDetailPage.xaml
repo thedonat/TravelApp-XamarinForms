@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Wanderlust.PostDetailPage">
+
+
+    <StackLayout Margin="16,20,16,0">
+        <Entry x:Name="experienceEntry"
+               Text="Experience"
+               VerticalTextAlignment="Start"
+               HeightRequest="150"/>
+        <Label x:Name="venueLabel"
+               Margin="0,30,0,0"
+               FontAttributes="Bold"
+               FontSize="22"
+               Text="Venue Label"/>
+        <Label x:Name="categoryLabel"
+               Text="Category"
+               TextColor="Brown"/>
+        <Label x:Name="addressLabel"
+               Text="Your adress"
+               FontSize="15"/>
+        <Button Text="Update"
+                Margin="0,50,0,0"
+                Clicked="Update_Clicked"
+                BackgroundColor="Brown"
+                TextColor="White"/>
+        <Button Text="Delete"             
+                Clicked="Delete_Clicked"
+                BackgroundColor="Brown"
+                TextColor="White"/>
+    </StackLayout>
+
+</ContentPage>

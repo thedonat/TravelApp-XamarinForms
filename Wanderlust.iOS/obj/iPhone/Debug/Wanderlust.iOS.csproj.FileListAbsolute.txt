@@ -1,0 +1,177 @@
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Wanderlust.iOS.exe
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Wanderlust.iOS.pdb
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Plugin.Permissions.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/SQLite-net.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/SQLitePCLRaw.core.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Plugin.Geolocator.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.1.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.1.3/actool/_PartialAppManifest.items
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.1.3/actool/_BundleResourceWithLogicalName.items
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.1.3/coremlc/_PartialAppManifest.items
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.1.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.1.3/optimized/
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/App.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/HomePage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/HistoryPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/MapPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/ProfilePage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/NewTravelPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/MainPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/PostDetailPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/XamlC.stamp
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/Wanderlust.iOS.csproj.CopyComplete
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/Wanderlust.iOS.exe
+/Users/thedonat/Projects/Wanderlust/Wanderlust.iOS/obj/iPhone/Debug/Wanderlust.iOS.pdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Wanderlust.iOS.exe
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Wanderlust.iOS.pdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Microsoft.Azure.Mobile.Client.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/System.Net.Http.Extensions.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/System.Net.Http.Primitives.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Newtonsoft.Json.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/PCLCrypto.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/PInvoke.BCrypt.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/PInvoke.Kernel32.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/PInvoke.NCrypt.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/PInvoke.Windows.Core.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Plugin.DeviceOrientation.Abstractions.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Plugin.DeviceOrientation.Abstractions.pdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Plugin.DeviceOrientation.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Plugin.Permissions.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/SQLite-net.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/SQLitePCLRaw.core.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/SQLitePCLRaw.provider.sqlite3.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/System.IO.Compression.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/System.Net.Http.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/System.Security.Cryptography.Encoding.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/System.Security.Cryptography.X509Certificates.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Validation.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.pdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Microsoft.WindowsAzure.Storage.dll.mdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Plugin.Geolocator.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Plugin.Media.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Essentials.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Essentials.pdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Core.pdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Platform.iOS.pdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Xaml.pdb
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/ar/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/ca/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/cs/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/da/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/de/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/el/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/es/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/fi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/fr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/he/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/hi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/hr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/hu/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/id/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/it/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/ja/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/ko/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/ms/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/nb/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/nl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/pl/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/pt-br/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/pt/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/ro/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/ru/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/sk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/sv/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/th/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/tr/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/uk/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/vi/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/bin/iPhone/Debug/Xamarin.Forms.Maps.iOS.dll
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/actool/_PartialAppManifest.items
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/actool/_BundleResourceWithLogicalName.items
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/coremlc/_PartialAppManifest.items
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/save.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/user.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/history.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/map.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/touristboy.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/touristgirl.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/logo.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/add.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/search.png
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/device-builds/iphone9.2-13.3/optimized/
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/App.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/HomePage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/HistoryPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/MapPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/ProfilePage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/NewTravelPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/MainPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/PostDetailPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/RegisterPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/ExpolererPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/ExploreDetailPage.xaml.g.cs
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/XamlC.stamp
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/Wanderlust.iOS.csproj.CopyComplete
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/Wanderlust.iOS.exe
+/Users/thedonat/Projects/Wanderlust 2/Wanderlust.iOS/obj/iPhone/Debug/Wanderlust.iOS.pdb

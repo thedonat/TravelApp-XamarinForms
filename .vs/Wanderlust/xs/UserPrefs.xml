@@ -1,0 +1,82 @@
+﻿<Properties StartupConfiguration="{3A406A53-5EA9-49B5-BBC0-5F7BA90F7408}|Default">
+  <MonoDevelop.Ide.ItemProperties.Wanderlust FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wanderlust.iOS/Main.cs">
+    <Files>
+      <File FileName="Wanderlust/RegisterPage.xaml" Line="26" Column="35" />
+      <File FileName="Wanderlust/App.xaml.cs" />
+      <File FileName="Wanderlust/ExploreDetailPage.xaml" />
+      <File FileName="Wanderlust/ExploreDetailPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Wanderlust/ExpolererPage.xaml" />
+      <File FileName="Wanderlust/ExpolererPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Wanderlust/HistoryPage.xaml" />
+      <File FileName="Wanderlust/HistoryPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Wanderlust/HomePage.xaml" Line="1" Column="1" />
+      <File FileName="Wanderlust/HomePage.xaml.cs" />
+      <File FileName="Wanderlust/MainPage.xaml" />
+      <File FileName="Wanderlust/MainPage.xaml.cs" />
+      <File FileName="Wanderlust/MapPage.xaml" />
+      <File FileName="Wanderlust/MapPage.xaml.cs" />
+      <File FileName="Wanderlust/NewTravelPage.xaml" />
+      <File FileName="Wanderlust/NewTravelPage.xaml.cs" />
+      <File FileName="Wanderlust/PostDetailPage.xaml" />
+      <File FileName="Wanderlust/PostDetailPage.xaml.cs" />
+      <File FileName="Wanderlust/ProfilePage.xaml" />
+      <File FileName="Wanderlust/ProfilePage.xaml.cs" />
+      <File FileName="Wanderlust/RegisterPage.xaml.cs" />
+      <File FileName="Wanderlust.iOS/AppDelegate.cs" />
+      <File FileName="Wanderlust.Android/MainActivity.cs" />
+      <File FileName="../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/iOS/Xamarin.iOS.Common.targets" />
+      <File FileName="Wanderlust/Logic/VenueLogic.cs" Line="32" Column="6" />
+      <File FileName="Wanderlust/Model/Venue.cs" Line="57" Column="1" />
+      <File FileName="Wanderlust/Helpers/Constants.cs" Line="8" Column="96" />
+      <File FileName="Wanderlust/Model/Post.cs" Line="1" Column="1" />
+      <File FileName="Wanderlust/Model/Users.cs" Line="1" Column="1" />
+      <File FileName="Wanderlust.iOS/Main.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Wanderlust" expanded="True">
+            <Node name="Wanderlust" expanded="True">
+              <Node name="Helpers" expanded="True" />
+              <Node name="Logic" expanded="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="ExploreDetailPage.xaml" expanded="True" />
+              <Node name="ExpolererPage.xaml" expanded="True" />
+              <Node name="HistoryPage.xaml" expanded="True" />
+              <Node name="HomePage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+              <Node name="MapPage.xaml" expanded="True" />
+              <Node name="NewTravelPage.xaml" expanded="True" />
+              <Node name="PostDetailPage.xaml" expanded="True" />
+              <Node name="ProfilePage.xaml" expanded="True" />
+              <Node name="RegisterPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Wanderlust.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Wanderlust.iOS" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True" />
+              <Node name="Main.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Wanderlust.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D54AEF26-8032-4E82-A013-5C14E3A497F6" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Wanderlust.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.pixel_2_pie_9_0_api_28" />
+</Properties>

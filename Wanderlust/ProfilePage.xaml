@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Wanderlust.ProfilePage">
+    <ContentPage.Content>
+        <StackLayout Margin="20,3,20,0">
+
+            <Image x:Name="ppImage"
+                   VerticalOptions="Center"/>
+            <Label Text="Welcome"
+                   FontSize="15"
+                   HorizontalOptions="Center"/> 
+            <Label x:Name="usernameLabel"
+                   HorizontalOptions="Center"
+                   Text="username"
+                   TextColor="Brown"
+                   FontAttributes="Bold"
+                   FontSize="20"/>
+            <Label x:Name="postCountLabel"
+                   HorizontalOptions="Center"
+                   Text="--"
+                   TextColor="DodgerBlue"
+                   FontAttributes="Bold"/>
+            <Label Text="posts"
+                   HorizontalOptions="Center"
+                   TextColor="LightGray"/>
+            <ListView x:Name="categoriesListView" HorizontalScrollBarVisibility="Always" HasUnevenRows="True">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Margin="5">
+
+                                   <Label Text="{Binding Path=Key}"/>
+                                   <Label Text="{Binding Path=Value}" TextColor="Brown"/>
+                                   <ProgressBar x:Name="myprogress" Progress="1" ProgressColor="Purple" WidthRequest="200" HeightRequest="30"/>
+
+                                </StackLayout>
+
+
+                                </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
